@@ -19,7 +19,7 @@ const Countries = () => {
 
   return (
     <>
-      <h1>React tour {countries.length}</h1>
+      <h1>React World Tour </h1>
       <div>
         <h3>Visited countries: {visitedCountries.length}</h3>
         <ol>
